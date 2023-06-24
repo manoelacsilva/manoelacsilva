@@ -10,7 +10,8 @@ EN
 - 👩🏻‍💻 I'm studying Full-Stack Python Development at EBAC
 - 💡 Willing to be constantly learning new technologies
 
-  ## Contato | Contact
+
+  ## CONTATO | CONTACT
 - E-mail: [manoelacs62@gmail.com](mailto:manoelacs62@gmail.com)
 <!---
 manoelacsilva/manoelacsilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
