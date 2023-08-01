@@ -14,7 +14,7 @@ EN
 
 ##
 
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manoelacsilva&layout=compact&langs_count=7&theme=tokyonight)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manoelacsilva&layout=compact&langs_count=7&theme=dark)
 
 ##
 
