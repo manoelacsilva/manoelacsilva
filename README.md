@@ -1,4 +1,4 @@
-## Oiê! Eu sou a Manoela Coelho, mas pode me chamar de Manô 🙋🏻‍♀️
+## Oiê, muito prazer! Eu sou a Manoela Coelho, mas pode me chamar de Manô 🙋🏻‍♀️
 
 PT-BR
 - 👋🏻 Olá, me chamo Manoela
