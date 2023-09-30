@@ -14,7 +14,7 @@ EN
 
 ##
     
-  <img height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoelacsilva&layout=compact&langs_count=10&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoelacsilva&layout=compact&langs_count=10&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
 
 ##
 
