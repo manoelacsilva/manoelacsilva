@@ -2,8 +2,8 @@
 
 PT-BR
 - 👋🏻 Olá, me chamo Manoela
-- 🇧🇷 Sou brasileira e tenho 18 anos
-- 👩🏻‍💻 Estou estudando Desenvolvimento Full-Stack Python na EBAC
+- 🇧🇷 Sou brasileira e tenho 19 anos
+- 👩🏻‍💻 Estou finalizando o curso de Desenvolvimento Full-Stack Python na EBAC
 - 💡 Disposta a estar constantemente aprendendo tecnologias novas
 
 EN
