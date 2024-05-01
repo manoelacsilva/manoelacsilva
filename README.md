@@ -8,7 +8,7 @@ PT-BR
 
 EN
 - 👋🏻 Hello, my name is Manoela
-- 🇧🇷 I'm Brazilian and I'm 18 years old
+- 🇧🇷 I'm Brazilian and I'm 19 years old
 - 👩🏻‍💻 I'm studying Full-Stack Python Development at EBAC
 - 💡 Willing to be constantly learning new technologies
 
