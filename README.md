@@ -16,7 +16,7 @@ EN
 
 <div display="flex">
     <img height="200px" src="https://github-readme-stats.vercel.app/api?username=manoelacsilva&show_icons=true&include_all_commits=true&count_private=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
-    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoelacsilva&layout=compact&langs_count=10&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoelacsilva&layout=compact&langs_count=12&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
 </div>
     
 
