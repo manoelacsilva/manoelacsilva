@@ -52,7 +52,7 @@ EN
  <div>
    <h3>Contato</h3>
    <a href = "mailto:manoelacs62@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/manoela-fullstack-python" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/manoela-coelho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 <!---
 manoelacsilva/manoelacsilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
