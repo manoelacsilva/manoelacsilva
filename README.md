@@ -3,13 +3,13 @@
 PT-BR
 - 👋🏻 Olá, me chamo Manoela
 - 🇧🇷 Sou brasileira e tenho 19 anos
-- 👩🏻‍💻 Formada em Desenvolvimento Full-Stack (React/Django) pela EBAC
+- 👩🏻‍💻 Certificação em Desenvolvimento Full Stack (React/Django) pela EBAC
 - 💡 Disposta a estar constantemente aprendendo tecnologias novas
 
 EN
 - 👋🏻 Hello, my name is Manoela
 - 🇧🇷 I'm Brazilian and I'm 19 years old
-- 👩🏻‍💻 I'm studying Full-Stack Python Development at EBAC
+- 👩🏻‍💻 Certification in Full Stack Development (React/Django) by EBAC
 - 💡 Willing to be constantly learning new technologies
 
 ##
