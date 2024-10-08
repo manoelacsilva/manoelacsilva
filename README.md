@@ -1,17 +1,19 @@
-## Oiê, muito prazer! Eu sou a Manoela Coelho, mas pode me chamar de Manô 🙋🏻‍♀️
+## Oiê, muito prazer! Eu sou a Manoela, mas pode me chamar de Manô 🙋🏻‍♀️
 
 PT-BR
 - 👋🏻 Olá, me chamo Manoela;
 - 🇧🇷 Sou brasileira e tenho 19 anos;
+- 👩🏻‍💻 Estagiária de desenvolvimento de software no Concurseiro Zero1;
 - 👩🏻‍🎓 Graduanda em Análise e Desenvolvimento de Sistemas pela Estácio (1/5);
-- 👩🏻‍💻 Certificação em Desenvolvimento Full Stack (React/Django) pela EBAC (100%);
+- ✅ Certificação em Desenvolvimento Full Stack (React/Django) pela EBAC (100%);
 - 💡 Disposta a estar constantemente aprendendo tecnologias novas.
 
 EN
 - 👋🏻 Hello, my name is Manoela;
 - 🇧🇷 I'm Brazilian and I'm 19 years old;
+- 👩🏻‍💻 Software development intern at Concurseiro Zero1;
 - 👩🏻‍🎓 Undergraduate student in Systems Analysis and Development at Estácio (1/5);
-- 👩🏻‍💻 Certification in Full Stack Development (React/Django) by EBAC (100%);
+- ✅ Certification in Full Stack Development (React/Django) by EBAC (100%);
 - 💡 Willing to be constantly learning new technologies.
 
 ##
