@@ -1,7 +1,6 @@
 ## Oiê, muito prazer! Eu sou a Manoela, mas pode me chamar de Manô 🙋🏻‍♀️
 
 PT-BR
-- 👋🏻 Olá, me chamo Manoela;
 - 🇧🇷 Sou brasileira e tenho 19 anos;
 - 👩🏻‍💻 Estagiária de desenvolvimento de software no Concurseiro Zero1;
 - 👩🏻‍🎓 Graduanda em Análise e Desenvolvimento de Sistemas pela Estácio (2/5);
