@@ -1,7 +1,7 @@
 ## Oiê, muito prazer! Eu sou a Manoela, mas pode me chamar de Manô 🙋🏻‍♀️
 
-PT-BR
-- 🇧🇷 Sou brasileira e tenho 19 anos;
+PT-BR 🇧🇷
+
 - 👩🏻‍💻 Estagiária de desenvolvimento de software no Concurseiro Zero1;
 - 👩🏻‍🎓 Graduanda em Análise e Desenvolvimento de Sistemas pela Estácio (2/5);
 - ✅ Certificação em Desenvolvimento Full Stack (React/Django) pela EBAC (100%);
@@ -9,7 +9,6 @@ PT-BR
 
 EN
 - 👋🏻 Hello, my name is Manoela;
-- 🇧🇷 I'm Brazilian and I'm 19 years old;
 - 👩🏻‍💻 Software development intern at Concurseiro Zero1;
 - 👩🏻‍🎓 Undergraduate student in Systems Analysis and Development at Estácio (2/5);
 - ✅ Certification in Full Stack Development (React/Django) by EBAC (100%);
