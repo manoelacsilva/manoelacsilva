@@ -71,13 +71,12 @@ EN
 
  <div>
    <h3>Contato</h3>
-   
- <a href="mailto:manoelacs62@gmail.com">
-<img alt="Gmail" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Gmail.svg"> 
-  </a>
+        <!--  <a href="mailto:manoelacs62@gmail.com">
+                <img alt="Gmail" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Gmail.svg"> 
+              </a> -->
      <a href="https://www.linkedin.com/in/manoela-coelho">
-    <img alt="Linkedin" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linkedin.svg"> 
-  </a>
+        <img alt="Linkedin" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linkedin.svg"> 
+      </a>
  </div>
 <!---
 manoelacsilva/manoelacsilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
