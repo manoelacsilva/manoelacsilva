@@ -2,14 +2,12 @@
 
 PT-BR 🇧🇷
 
-- 👩🏻‍💻 Estagiária de desenvolvimento de software no Concurseiro Zero1;
 - 👩🏻‍🎓 Graduanda em Análise e Desenvolvimento de Sistemas pela Estácio (2/5);
 - ✅ Certificação em Desenvolvimento Full Stack (React/Django) pela EBAC (100%);
 - 💡 Disposta a estar constantemente aprendendo tecnologias novas.
 
 EN
 - 👋🏻 Hello, my name is Manoela;
-- 👩🏻‍💻 Software development intern at Concurseiro Zero1;
 - 👩🏻‍🎓 Undergraduate student in Systems Analysis and Development at Estácio (2/5);
 - ✅ Certification in Full Stack Development (React/Django) by EBAC (100%);
 - 💡 Willing to be constantly learning new technologies.
