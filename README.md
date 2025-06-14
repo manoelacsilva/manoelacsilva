@@ -38,7 +38,6 @@ EN
    <img alt="GIT" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIT.svg">
    <img alt="Figma" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Figma.svg">
    <img alt="VSCode" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/VSCode.svg">
-   <img alt="Linux" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linux.svg">
     
 <!--      
 <img align="center" alt="Manoela-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
